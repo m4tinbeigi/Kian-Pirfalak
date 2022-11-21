@@ -1,4 +1,4 @@
-=== Karzar ===
+=== Kian PirFalak ===
 Contributors: Rick Sanchez
 Donate link: https://github.com/m4tinbeigi
 Tags: kian
