@@ -1,12 +1,9 @@
 <?php
 
-
-//if(get_option('mbwp_kian')=='1'){}
-
 function kian_html(){
 
 return '<div class="textwidget custom-html-widget">
-	<audio id="myAudio">
+	<audio id="myAudio_kian">
 		<source src="'.MBWP_ESL_URI_KIAN.'kian.mp3" type="audio/mpeg">
 	</audio>
 	<button style="background:transparent;padding:0;" onclick="playAudio()" type="button">
@@ -17,7 +14,7 @@ return '<div class="textwidget custom-html-widget">
 	</button>
 </div>
 <script>
-var xmp3 = document.getElementById("myAudio"); 
+var xmp3 = document.getElementById("myAudio_kian"); 
 
 function playAudio() { 
   xmp3.play(); 
