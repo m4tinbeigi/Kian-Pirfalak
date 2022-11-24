@@ -4,7 +4,7 @@
  * Plugin URI: https://wordpress.org/plugins/Kian-Pirfalak/
  * Description: کیان: به نام خدای رنگین کمان #مهسا_امینی | برای نمایش از کد کوتاه [kian] استفاده کنید.
  * Version: 1.0.0
- * Author:ریک سانچز
+ * Author:Rick Sanchez
  * Author URI: https://github.com/m4tinbeigi
  */
  
